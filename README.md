@@ -1,4 +1,2 @@
-pycuda_logmap
-=============
+It's an IPython notebook that calculates bifurcation plots for a coupled logistic map system.
 
-IPython notebook that plots a coupled logistic map with pycuda
